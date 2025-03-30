@@ -2,6 +2,8 @@
 
 Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel, exciting token efficient methods for Large Reasoning Models (LRMs). It contains papers, codes, datasets, evaluations, and analyses. Any additional things regarding efficient inference for LRMs, PRs, issues are welcome and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact yliu@u.nus.edu. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
 
+<img src="./overview.png" alt="overview" style="zoom:61%;" />
+
 
 ## Bookmarks
 
@@ -12,17 +14,35 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 
 ## Papers
 
+
+
+### Explicit Compact CoT
+
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
 | 2025.03 | **Sketch-of-thought: Efficient llm reasoning with adaptive cognitive-inspired sketching (SoT)** |   arXiv'25     | [link](https://arxiv.org/abs/2503.05179) |        [link](https://github.com/SimonAytes/SoT)      |
 
 
 
+<img src="D:./takeaway_1.png" alt="takeaway_1" style="zoom:61%;" />
 
 
-### Explicit Compact CoT
 
 ### Implicit Latent CoT
+
+
+
+| Time | Title   |  Venue   | Paper | Code |
+| ---- | ------- | :------: | :---: | :--: |
+| xxx  | **xxx** | arXiv'25 |  xx   |  -   |
+
+
+
+<img src="D:./takeaway_2.png" alt="takeaway_1" style="zoom:61%;" />
+
+
+
+
 
 
 
