@@ -12,6 +12,11 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 
 ## Papers
 
+| Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
+| ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2025.03 | **Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy (JOOD)** |   CVPR'25     | [link](http://arxiv.org/pdf/2503.20823) |        [link](https://github.com/naver-ai/JOOD)      |
+
+
 
 
 
