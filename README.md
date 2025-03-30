@@ -24,7 +24,7 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 
 
 
-<img src="D:./takeaway1.png" alt="takeaway1" style="zoom:61%;" />
+<img src="./takeaway1.png" alt="takeaway1" style="zoom:61%;" />
 
 
 
@@ -38,7 +38,7 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 
 
 
-<img src="D:./takeaway2.png" alt="takeaway1" style="zoom:61%;" />
+<img src="./takeaway2.png" alt="takeaway1" style="zoom:61%;" />
 
 
 
