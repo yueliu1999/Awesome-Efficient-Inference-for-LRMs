@@ -5,8 +5,8 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 
 ## Bookmarks
 
-- [Explicit Compact CoT](#jailbreak-attack)
-- [Implicit Latent CoT](#jailbreak-defense)
+- [Explicit Compact CoT](#explicit-compact-cot)
+- [Implicit Latent CoT](#implicit-latent-cot)
 
 
 
