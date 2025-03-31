@@ -10,8 +10,16 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 - [Explicit Compact CoT](#explicit-compact-cot)
 - [Implicit Latent CoT](#implicit-latent-cot)
 - [Limitations and Challenges](#limitations-and-challenges)
-  - 123 
+  - [User-centric Controllable Reasoning](#user-centric-controllable-reasoning)
+  - [Interpretability of Reasoning](#trade-off-between-interpretability-and-efficiency-of-reasoning)
+  - [Reasoning Safety](#ensuring-safety-of-efficient-reasoning)
+  - [Broader Application](#broader-application-of-efficient-reasoning)
 - [Further Improvement](#further-improvement)
+  - [New Architecture](#new-architecture)
+  - [Model Merge](#model-merge)
+  - [Agent Router](#agent-router)
+
+
 
 
 ## Papers
