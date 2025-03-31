@@ -121,7 +121,21 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 #### Broader Application
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
-| 2025.02 | **CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation** |   arXiv'25     | [link](https://arxiv.org/abs/2502.21074) |        -      |
+| 2025.03 | **SOLAR: Scalable Optimization of Large-scale Architecture for Reasoning** |   arXiv'25     | [link](https://arxiv.org/abs/2503.04530) |        -      |
+| 2025.03 | **Large language models (LLM) in computational social science: prospects, current state, and challenges** |   Social Network Analysis and Mining'25     | [link](https://link.springer.com/article/10.1007/s13278-025-01428-9) |        -      |
+| 2025.03 | **Gemini robotics brings ai into the physical world** |   Google'25     | [link](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/) |        -      |
+| 2025.03 | **Nvidia isaac gr00t n1: An open foundation model for humanoid robots.** |   Nvidia'25     | [link](https://research.nvidia.com/publication/2025-03_nvidia-isaac-gr00t-n1-open-foundation-model-humanoid-robots) |        -      |
+| 2025.02 | **Anthropic. Claude 3.7 sonnet and claude code** |   Anthropic'25     | [link](https://www.anthropic.com/news/claude-3-7-sonnet) |        -      |
+| 2025.02 | **TokenSkip: Controllable Chain-of-Thought Compression in LLMs** |   arXiv'25     | [link](https://arxiv.org/abs/2502.12067) |        [link](https://github.com/hemingkx/TokenSkip)      |
+| 2025.02 | **RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete** |   arXiv'25     | [link](https://arxiv.org/abs/2502.21257) |        -     |
+| 2025.02 | **From Personas to Talks: Revisiting the Impact of Personas on LLM-Synthesized Emotional Support Conversations** |   arXiv'25     | [link](https://arxiv.org/abs/2502.11451) |        -      |
+| 2025.02 | **Introducing deep research** |   OpenAI'25     | [link](https://openai.com/index/introducing-deep-research/) |        -      |
+| 2025.02 | **Introducing gpt-4.5** |   OpenAI'25     | [link](https://openai.com/index/introducing-gpt-4-5/) |        -      |
+| 2025.01 | **Kimi k1.5: Scaling Reinforcement Learning with LLMs** |   arXiv'25     | [link](https://arxiv.org/abs/2501.12599) |        -      |
+| 2024.12 | **Compressed Chain of Thought: Efficient Reasoning Through Dense Representations** |   arXiv'24     | [link](https://arxiv.org/abs/2412.13171) |        -      |
+| 2024.08 | **Large Language Model Agent in Financial Trading: A Survey** |   arXiv'24     | [link](https://arxiv.org/abs/2408.06361) |        -      |
+| 2024.04 | **Automated Social Science: Language Models as Scientist and Subjects** |   arXiv'24     | [link](https://arxiv.org/abs/2404.11794) |        [link](https://benjaminmanning.io/)      |
+| 2023.11 | **LLM4Drive: A Survey of Large Language Models for Autonomous Driving** |   arXiv'24     | [link](https://arxiv.org/abs/2311.01043) |        [link](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)      |
 
 
 
