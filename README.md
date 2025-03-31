@@ -10,6 +10,7 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 - [Explicit Compact CoT](#explicit-compact-cot)
 - [Implicit Latent CoT](#implicit-latent-cot)
 - [Limitations and Challenges](#limitations-and-challenges)
+  - 123 
 - [Further Improvement](#further-improvement)
 
 
