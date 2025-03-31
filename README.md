@@ -146,7 +146,15 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 #### New Architecture
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
-| 2025.02 | **CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation** |   arXiv'25     | [link](https://arxiv.org/abs/2502.21074) |        -      |
+| 2025.02 | **Large Language Diffusion Models** |   arXiv'25     | [link](https://arxiv.org/abs/2502.09992) |        [link](https://ml-gsai.github.io/LLaDA-demo/)      |
+| 2025.02 | **UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs** |   arXiv'25     | [link](https://arxiv.org/abs/2502.00806) |        [link](https://github.com/yf-he/UniGraph2)      |
+| 2024.03 | **Graph of Thoughts: Solving Elaborate Problems with Large Language Models** |   AAAI Conference on Artificial Intelligence'24     | [link](https://ojs.aaai.org/index.php/AAAI/article/view/29720) |        [link](https://github.com/yf-he/UniGraph)      |
+| 2024.02 | **UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs** |   arXiv'24     | [link](https://arxiv.org/abs/2402.13630) |        [link](https://github.com/spcl/graph-of-thoughts)      |
+| 2023.12 | **Mamba: Linear-Time Sequence Modeling with Selective State Spaces** |   arXiv'23     | [link](https://arxiv.org/abs/2312.00752) |        [link](https://github.com/state-spaces/mamba)      |
+| 2023.10 | **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** |   arXiv'23     | [link](https://arxiv.org/abs/2310.04406) |        [link](https://github.com/lapisrocks/LanguageAgentTreeSearch)      |
+| 2023.05 | **RWKV: Reinventing RNNs for the Transformer Era** |   arXiv'23     | [link](https://arxiv.org/abs/2305.13048) |        [link](https://github.com/BlinkDL/RWKV-LM)      |
+| 2017.10 | **Mastering the game of Go without human knowledge** |   nature'17     | [link](https://www.nature.com/articles/nature24270) |        -      |
+
 
 
 #### Model Merge 
