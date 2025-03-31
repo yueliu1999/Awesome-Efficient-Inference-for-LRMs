@@ -89,21 +89,21 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 | 2025.02 | **CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation** |   arXiv'25     | [link](https://arxiv.org/abs/2502.21074) |        -      |
 
 
-#### Trade-off Between Interpretability and Efficiency of Reasoning
+#### Interpretability of Reasoning
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
 | 2025.02 | **CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation** |   arXiv'25     | [link](https://arxiv.org/abs/2502.21074) |        -      |
 
 
 
-#### Ensuring Safety of Efficient Reasoning
+#### Reasoning Safety
 
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
 | 2025.02 | **CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation** |   arXiv'25     | [link](https://arxiv.org/abs/2502.21074) |        -      |
 
 
-#### Broader Application of Efficient Reasoning
+#### Broader Application
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
 | 2025.02 | **CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation** |   arXiv'25     | [link](https://arxiv.org/abs/2502.21074) |        -      |
