@@ -23,7 +23,10 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 
 
 ## Papers
-
+### Survey
+| Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
+| ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2025.03 | **Efficient Inference for Large Reasoning Models: A Survey** |   arXiv'25     | [link](https://arxiv.org/pdf/2503.23077) |        [link](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs)      |
 
 
 ### Explicit Compact CoT
