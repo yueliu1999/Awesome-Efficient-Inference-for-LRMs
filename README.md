@@ -184,10 +184,15 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 
 ## Reference
 
-If you find this repository helpful to your research, it is really appreciated to cite our papers. :sparkles:
+If you find this repository helpful to your research, it is really appreciated if to cite our papers. :sparkles:
 
 ```
-
+@article{liu2025efficient,
+  title={Efficient Inference for Large Reasoning Models: A Survey},
+  author={Liu, Yue and Wu, Jiaying and He, Yufei and Gao, Hongcheng and Chen, Hongyu and Bi, Baolong and Zhang, Jiaheng and Huang, Zhiqi and Hooi, Bryan},
+  journal={arXiv preprint arXiv:2503.23077},
+  year={2025}
+}
 ```
 
 
