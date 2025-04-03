@@ -180,6 +180,8 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 | 2025.02 | **Confident or Seek Stronger: Exploring Uncertainty-Based On-device LLM Routing From Benchmarking to Generalization** |   arXiv'25     | [link](https://arxiv.org/abs/2502.04428) |        -      |
 | 2025.01 | **RouteLLM: Learning to Route LLMs from Preference Data** |   The Thirteenth International Conference on Learning Representations'25     | [link](https://openreview.net/forum?id=8sSqNntaMr) |        -      |
 | 2024.10 | **Learning to Route LLMs with Confidence Tokens** |   arXiv'24     | [link](https://arxiv.org/abs/2410.13284) |        -      |
+| 2024.09 | **RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models** | The Thirty-Ninth Annual Conference on Neural Information Processing Systems | [link](https://openreview.net/pdf?id=7RQvjayHrM) |
+
 
 
 <img src="./takeaway4.png" alt="takeaway4" style="zoom:61%;" />
