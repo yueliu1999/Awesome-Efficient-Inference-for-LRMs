@@ -178,6 +178,7 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 #### Agent Router
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
+| 2025.04 | **SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning** | arXiv'25 | [link](https://arxiv.org/abs/2504.07891) | [link](https://github.com/ruipeterpan/specreason) |
 | 2025.02 | **Confident or Seek Stronger: Exploring Uncertainty-Based On-device LLM Routing From Benchmarking to Generalization** |   arXiv'25     | [link](https://arxiv.org/abs/2502.04428) |        -      |
 | 2025.01 | **RouteLLM: Learning to Route LLMs from Preference Data** |   The Thirteenth International Conference on Learning Representations'25     | [link](https://openreview.net/forum?id=8sSqNntaMr) |        -      |
 | 2024.10 | **Learning to Route LLMs with Confidence Tokens** |   arXiv'24     | [link](https://arxiv.org/abs/2410.13284) |        -      |
