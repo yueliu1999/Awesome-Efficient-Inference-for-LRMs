@@ -73,6 +73,7 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
+| 2025.05 | **Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.16552) |        [link](https://colar-latent-reasoning.github.io/)      |
 | 2025.02 | **CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation** |   arXiv'25     | [link](https://arxiv.org/abs/2502.21074) |        -      |
 | 2025.02 | **Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning** |   arXiv'25     | [link](https://arxiv.org/abs/2502.03275) |        -      |
 | 2025.02 | **SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs** |   arXiv'25     | [link](https://arxiv.org/abs/2502.12134) |        -      |
