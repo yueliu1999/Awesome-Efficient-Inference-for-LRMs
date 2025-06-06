@@ -167,6 +167,7 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 #### Model Merge 
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
+| 2025.06 | **Accelerated Test-Time Scaling with Model-Free Speculative Sampling** |   arXiv'25     | [link](https://arxiv.org/abs/2506.04708) |        -      |
 | 2025.03 | **Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging** |   arXiv'25     | [link](https://arxiv.org/abs/2503.20641) |        [link](https://github.com/hahahawu/Long-to-Short-via-Model-Merging)      |
 | 2025.03 | **SOLAR: Scalable Optimization of Large-scale Architecture for Reasoning** |   arXiv'25     | [link](https://arxiv.org/abs/2503.04530) |        -      |
 | 2025.03 | **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning** |   arXiv'25     | [link](https://arxiv.org/abs/2503.07572) |        [link](https://cohenqu.github.io/mrt.github.io/)      |
