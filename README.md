@@ -55,13 +55,13 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 | 2025.05 | **VeriThinker: Learning to Verify Makes Reasoning Model Efficient** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.17941) |        [link](https://github.com/czg1225/VeriThinker)      |
 | 2025.05 | **Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.13866) |        [link](https://github.com/jiwonsong-dev/ReasoningPathCompression)      |
 | 2025.05 | **ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.15684) |        -      |
-| 2025.05 | **Learn to Reason Efficiently with Adaptive Length-based Reward Shaping** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.15612) |        [link](https://github.com/hkust-nlp/Laser      |
+| 2025.05 | **Learn to Reason Efficiently with Adaptive Length-based Reward Shaping** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.15612) |        [link](https://github.com/hkust-nlp/Laser)      |
 | 2025.05 | **R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.16838) |        [link](https://github.com/w-yibo/R1-Compress)      |
 | 2025.05 | **Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.16315) |        -      |
 | 2025.05 | **ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models** |   arXiv'25     | [link](https://www.arxiv.org/pdf/2505.17250) |        [link](https://github.com/RazvanDu/ConciseRL)      |
 | 2025.05 | **TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.17155) |        -      |
 | 2025.05 | **Not All Tokens Are What You Need In Thinking** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.17827) |        [link](https://github.com/Faustrazor/Not-All-Thinking-Tokens)      |
-| 2025.05 | **LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling** |   arXiv'25     | [link](https://arxiv.org/abs/2505.19756) |        [link](、https://github.com/GAIR-NLP/LIMOPro)      |
+| 2025.05 | **LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling** |   arXiv'25     | [link](https://arxiv.org/abs/2505.19756) |        [link](https://github.com/GAIR-NLP/LIMOPro)      |
 | 2025.05 | **Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.21178) |        [link](https://github.com/nick7nlp/ConciseR)      |
 | 2025.05 | **CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning Models** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.22017) |        -      |
 | 2025.05 | **Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.21765) |        -      |
