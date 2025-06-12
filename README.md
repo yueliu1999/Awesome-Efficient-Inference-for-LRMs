@@ -26,8 +26,12 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 ### Survey
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2025.04 | **Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.16782) |        [link](https://github.com/EIT-NLP/Awesome-Latent-CoT)      |
+| 2025.04 | **Efficient Reasoning Models: A Survey** |   arXiv'25     | [link](https://arxiv.org/pdf/2504.10903) |        [link](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models)      |
 | 2025.03 | **Efficient Inference for Large Reasoning Models: A Survey** |   arXiv'25     | [link](https://arxiv.org/pdf/2503.23077) |        [link](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs)      |
 | 2025.03 | **Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models** |   arXiv'25     | [link](https://arxiv.org/abs/2503.24377) |        [link](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers)      |
+| 2025.03 | **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond** |   arXiv'25     | [link](https://arxiv.org/pdf/2503.21614) |        [link](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)      |
+| 2025.03 | **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models** |   arXiv'25     | [link](https://arxiv.org/pdf/2503.16419) |        [link](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)      |
 
 
 ### Explicit Compact CoT
