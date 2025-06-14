@@ -49,7 +49,6 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 | 2025.05 | **Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.11827) |        [link](https://github.com/yasNing/Long-otimes-Short/)      |
 | 2025.05 | **Fractured Chain-of-Thought Reasoning** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.12992) |        -      |
 | 2025.05 | **Efficient RL Training for Reasoning Models via Length-Aware Optimization** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.12284) |        -      |
-| 2025.05 | **Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.14582) |        -      |
 | 2025.05 | **DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.13975) |        -      |
 | 2025.05 | **FlashThink: An Early Exit Method For Efficient Reasoning** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.13949) |        -      |
 | 2025.05 | **Optimizing Anytime Reasoning via Budget Relative Policy Optimization** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.13438) |        [link](https://github.com/sail-sg/AnytimeReasoner)      |
