@@ -38,6 +38,7 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2026.05 | **Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models** |   arXiv'26     | [link](https://arxiv.org/pdf/2605.17672) |        [link](https://github.com/giovanni-vaccarino/PUMA)      |
 | 2025.05 | **Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning** |   arXiv'25     | [link](https://arxiv.org/abs/2505.14582) |  -  |
 | 2025.05 | **Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.03469) |        [link](https://github.com/ZGCA-AI4Edu/LS-Mixture)      |
 | 2025.05 | **ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning** |   arXiv'25     | [link](https://arxiv.org/abs/2505.19756) |        -      |
