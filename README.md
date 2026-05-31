@@ -5,6 +5,21 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 <img src="./overview.png" alt="overview" style="zoom:61%;" />
 
 
+
+
+## Reference
+
+If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. :sparkles:
+
+```
+@article{liu2025efficient,
+  title={Efficient Inference for Large Reasoning Models: A Survey},
+  author={Liu, Yue and Wu, Jiaying and He, Yufei and Gao, Hongcheng and Chen, Hongyu and Bi, Baolong and Zhang, Jiaheng and Huang, Zhiqi and Hooi, Bryan},
+  journal={arXiv preprint arXiv:2503.23077},
+  year={2025}
+}
+```
+
 ## Bookmarks
 
 - [Explicit Compact CoT](#explicit-compact-cot)
@@ -226,19 +241,6 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 
 <img src="./takeaway4.png" alt="takeaway4" style="zoom:61%;" />
 
-
-## Reference
-
-If you find this repository helpful to your research, it is really appreciated if to cite our papers. :sparkles:
-
-```
-@article{liu2025efficient,
-  title={Efficient Inference for Large Reasoning Models: A Survey},
-  author={Liu, Yue and Wu, Jiaying and He, Yufei and Gao, Hongcheng and Chen, Hongyu and Bi, Baolong and Zhang, Jiaheng and Huang, Zhiqi and Hooi, Bryan},
-  journal={arXiv preprint arXiv:2503.23077},
-  year={2025}
-}
-```
 
 
 
