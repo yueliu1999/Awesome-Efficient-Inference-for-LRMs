@@ -7,6 +7,11 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 
 
 
+## Update
+- (**2026/05/31**) Our survey paper has been accepted by the IEEE T-PAMI 2026.
+- (**2025/03/29**) Our survey paper is online: [Efficient Inference for Large Reasoning Models: A Survey](http://arxiv.org/pdf/2503.23077).
+
+
 ## Reference
 
 If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. :sparkles:
