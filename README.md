@@ -8,6 +8,7 @@ Awesome-Efficient-Inference-for-LRMs is a collection of state-of-the-art, novel,
 
 
 ## Update
+- (**2026/06/07**) Added 40+ new papers (2025.05–2026.06) across Explicit Compact CoT, Implicit Latent CoT, Limitations & Challenges, Further Improvement, and Survey.
 - (**2026/05/31**) Our survey paper has been accepted by the IEEE T-PAMI 2026.
 - (**2025/03/29**) Our survey paper is online: [Efficient Inference for Large Reasoning Models: A Survey](http://arxiv.org/pdf/2503.23077).
 
@@ -46,6 +47,9 @@ If you find this repository helpful for your research, we would greatly apprecia
 ### Survey
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2025.08 | **Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models** |   arXiv'25     | [link](https://arxiv.org/abs/2508.02120) |        -      |
+| 2025.07 | **Towards Concise and Adaptive Thinking in Large Reasoning Models: A Survey** |   arXiv'25     | [link](https://arxiv.org/abs/2507.09662) |        -      |
+| 2025.07 | **Reasoning on a Budget: A Survey of Adaptive and Controllable Test-Time Compute in LLMs** |   arXiv'25     | [link](https://arxiv.org/abs/2507.02076) |        -      |
 | 2025.04 | **Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.16782) |        [link](https://github.com/EIT-NLP/Awesome-Latent-CoT)      |
 | 2025.04 | **Efficient Reasoning Models: A Survey** |   arXiv'25     | [link](https://arxiv.org/pdf/2504.10903) |        [link](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models)      |
 | 2025.03 | **Efficient Inference for Large Reasoning Models: A Survey** |   arXiv'25     | [link](https://arxiv.org/pdf/2503.23077) |        [link](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs)      |
@@ -59,6 +63,24 @@ If you find this repository helpful for your research, we would greatly apprecia
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
 | 2026.05 | **Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models** |   arXiv'26     | [link](https://arxiv.org/pdf/2605.17672) |        [link](https://github.com/giovanni-vaccarino/PUMA)      |
+| 2026.03 | **Efficient Reasoning with Balanced Thinking (ReBalance)** |   arXiv'26     | [link](https://arxiv.org/abs/2603.12372) |        -      |
+| 2026.03 | **Draft-Thinking: Learning Efficient Reasoning in Long Chain-of-Thought LLMs** |   arXiv'26     | [link](https://arxiv.org/abs/2603.00578) |        -      |
+| 2026.02 | **Towards Efficient Large Language Reasoning Models via Extreme-Ratio Chain-of-Thought Compression** |   arXiv'26     | [link](https://arxiv.org/abs/2602.08324) |        -      |
+| 2026.02 | **Self-Verification Dilemma: Experience-Driven Suppression of Overused Checking in LLM Reasoning** |   arXiv'26     | [link](https://arxiv.org/abs/2602.03485) |        -      |
+| 2026.02 | **Short Chains, Deep Thoughts: Balancing Reasoning Efficiency and Intra-Segment Capability via Split-Merge Optimization** |   arXiv'26     | [link](https://arxiv.org/abs/2602.03141) |        -      |
+| 2026.01 | **Mitigating Overthinking in Large Reasoning Models via Difficulty-aware Reinforcement Learning** |   arXiv'26     | [link](https://arxiv.org/abs/2601.21418) |        -      |
+| 2025.10 | **DLER: Doing Length pEnalty Right - Incentivizing More Intelligence per Token via Reinforcement Learning** |   arXiv'25     | [link](https://arxiv.org/abs/2510.15110) |        -      |
+| 2025.10 | **Learning to Reason Efficiently with Discounted Reinforcement Learning** |   arXiv'25     | [link](https://arxiv.org/abs/2510.23486) |        -      |
+| 2025.10 | **Beyond Token Length: Step Pruner for Efficient and Accurate Reasoning in Large Language Models** |   arXiv'25     | [link](https://arxiv.org/abs/2510.03805) |        -      |
+| 2025.09 | **Your Models Have Thought Enough: Training Large Reasoning Models to Stop Overthinking** |   arXiv'25     | [link](https://arxiv.org/abs/2509.23392) |        -      |
+| 2025.08 | **Making Slow Thinking Faster: Compressing LLM Chain-of-Thought via Step Entropy** |   arXiv'25     | [link](https://arxiv.org/abs/2508.03346) |        [link](https://github.com/staymylove/COT_Compresstion_via_Step_entropy)      |
+| 2025.08 | **BudgetThinker: Empowering Budget-aware LLM Reasoning with Control Tokens** |   arXiv'25     | [link](https://arxiv.org/abs/2508.17196) |        -      |
+| 2025.08 | **Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression** |   arXiv'25     | [link](https://arxiv.org/abs/2508.05337) |        -      |
+| 2025.07 | **Think Clearly: Improving Reasoning via Redundant Token Pruning** |   arXiv'25     | [link](https://arxiv.org/abs/2507.08806) |        -      |
+| 2025.06 | **AALC: Large Language Model Efficient Reasoning via Adaptive Accuracy-Length Control** |   arXiv'25     | [link](https://arxiv.org/abs/2506.20160) |        -      |
+| 2025.06 | **Steering LLM Thinking with Budget Guidance** |   arXiv'25     | [link](https://arxiv.org/abs/2506.13752) |        [link](https://github.com/UMass-Embodied-AGI/BudgetGuidance)      |
+| 2025.06 | **Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement** |   arXiv'25     | [link](https://arxiv.org/abs/2506.15647) |        -      |
+| 2025.05 | **REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Reasoning** |   arXiv'25     | [link](https://arxiv.org/abs/2505.19862) |        [link](https://github.com/hexuandeng/REA-RL)      |
 | 2025.05 | **Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning** |   arXiv'25     | [link](https://arxiv.org/abs/2505.14582) |  -  |
 | 2025.05 | **Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.03469) |        [link](https://github.com/ZGCA-AI4Edu/LS-Mixture)      |
 | 2025.05 | **ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning** |   arXiv'25     | [link](https://arxiv.org/abs/2505.19756) |        -      |
@@ -126,6 +148,11 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
+| 2026.05 | **Selective Latent Thinking: Adaptive Compression of LLM Reasoning Chains** |   arXiv'26     | [link](https://arxiv.org/abs/2605.25745) |        [link](https://github.com/hunshi34/SLT)      |
+| 2026.05 | **LatentRAG: Latent Reasoning and Retrieval for Efficient Agentic RAG** |   arXiv'26     | [link](https://arxiv.org/abs/2605.06285) |        -      |
+| 2026.04 | **Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought** |   arXiv'26     | [link](https://arxiv.org/abs/2604.22709) |        -      |
+| 2026.02 | **LoopFormer: Elastic-Depth Looped Transformers for Latent Reasoning via Shortcut Modulation** |   arXiv'26     | [link](https://arxiv.org/abs/2602.11451) |        -      |
+| 2025.10 | **KaVa: Latent Reasoning via Compressed KV-Cache Distillation** |   arXiv'25     | [link](https://arxiv.org/abs/2510.02312) |        -      |
 | 2025.05 | **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.15778) |        [link](https://github.com/eric-ai-lab/Soft-Thinking)      |
 | 2025.05 | **Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains** |   arXiv'25     | [link](https://arxiv.org/pdf/2505.16552) |        [link](https://colar-latent-reasoning.github.io/)      |
 | 2025.02 | **CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation** |   arXiv'25     | [link](https://arxiv.org/abs/2502.21074) |        -      |
@@ -147,6 +174,9 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
+| 2026.02 | **Conformal Thinking: Risk Control for Reasoning on a Compute Budget** |   arXiv'26     | [link](https://arxiv.org/abs/2602.03814) |        -      |
+| 2025.10 | **e1: Learning Adaptive Control of Reasoning Effort** |   arXiv'25     | [link](https://arxiv.org/abs/2510.27042) |        -      |
+| 2025.05 | **When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning (ASRR)** |   arXiv'25     | [link](https://arxiv.org/abs/2505.15400) |        -      |
 | 2025.02 | **OpenAI o3-mini System Card** |   OpenAI'25     | [link](https://cdn.openai.com/o3-mini-system-card-feb10.pdf) |        -      |
 | 2025.02 | **Anthropic. Claude 3.7 sonnet and claude code** |   Anthropic'25     | [link](https://www.anthropic.com/news/claude-3-7-sonnet) |        -      |
 
@@ -154,6 +184,9 @@ If you find this repository helpful for your research, we would greatly apprecia
 #### Interpretability of Reasoning
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
+| 2026.06 | **Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention** |   arXiv'26     | [link](https://arxiv.org/abs/2606.01243) |        -      |
+| 2026.04 | **Are Latent Reasoning Models Easily Interpretable?** |   arXiv'26     | [link](https://arxiv.org/abs/2604.04902) |        -      |
+| 2026.04 | **LLM Reasoning Is Latent, Not the Chain of Thought** |   arXiv'26     | [link](https://arxiv.org/abs/2604.15726) |        -      |
 | 2024.05 | **FiDeLiS: Faithful Reasoning in Large Language Model for Knowledge Graph Question Answering** |   arXiv'24     | [link](https://arxiv.org/abs/2405.13873v1) |        -      |
 | 2024.02 | **Challenges and barriers of using large language models (LLM) such as ChatGPT for diagnostic medicine with a focus on digital pathology - a recent scoping review** |   Diagnostic pathology'24     | [link](https://diagnosticpathology.biomedcentral.com/articles/10.1186/s13000-024-01464-7) |        -      |
 | 2024.02 | **(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice** |   arXiv'24     | [link](https://arxiv.org/abs/2402.01864) |        -      |
@@ -168,6 +201,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
+| 2025.05 | **The First Impression Problem: Internal Bias Triggers Overthinking in Reasoning Models** |   arXiv'25     | [link](https://arxiv.org/abs/2505.16448) |        -      |
 | 2025.03 | **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning** |   arXiv'25     | [link](https://arxiv.org/abs/2503.07572) |        [link](https://cohenqu.github.io/mrt.github.io/)      |
 | 2025.03 | **Detecting misbehavior in frontier reasoning models** |   OpenAI'25     | [link](https://openai.com/index/chain-of-thought-monitoring/) |        -      |
 | 2025.02 | **Evaluating the Paperclip Maximizer: Are RL-Based Language Models More Likely to Pursue Instrumental Goals?** |   arXiv'25     | [link](https://arxiv.org/abs/2502.12206) |        [link](https://github.com/yf-he/InstrumentalEval)      |
@@ -207,6 +241,8 @@ If you find this repository helpful for your research, we would greatly apprecia
 #### New Architecture
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
+| 2025.10 | **ThinKV: Thought-Adaptive KV Cache Compression for Efficient Reasoning Models** |   ICLR'26     | [link](https://arxiv.org/abs/2510.01290) |        -      |
+| 2025.05 | **R-KV: Redundancy-aware KV Cache Compression for Reasoning Models** |   arXiv'25     | [link](https://arxiv.org/abs/2505.24133) |        -      |
 | 2025.02 | **Large Language Diffusion Models** |   arXiv'25     | [link](https://arxiv.org/abs/2502.09992) |        [link](https://ml-gsai.github.io/LLaDA-demo/)      |
 | 2025.02 | **UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs** |   arXiv'25     | [link](https://arxiv.org/abs/2502.00806) |        [link](https://github.com/yf-he/UniGraph2)      |
 | 2024.03 | **Graph of Thoughts: Solving Elaborate Problems with Large Language Models** |   AAAI Conference on Artificial Intelligence'24     | [link](https://ojs.aaai.org/index.php/AAAI/article/view/29720) |        [link](https://github.com/yf-he/UniGraph)      |
@@ -221,6 +257,8 @@ If you find this repository helpful for your research, we would greatly apprecia
 #### Model Merge 
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
+| 2026.04 | **Multi-objective Evolutionary Merging Enables Efficient Reasoning Models** |   arXiv'26     | [link](https://arxiv.org/abs/2604.06465) |        -      |
+| 2025.09 | **The Thinking Spectrum: An Empirical Study of Tunable Reasoning in LLMs through Model Merging** |   arXiv'25     | [link](https://arxiv.org/abs/2509.22034) |        -      |
 | 2025.06 | **Accelerated Test-Time Scaling with Model-Free Speculative Sampling** |   arXiv'25     | [link](https://arxiv.org/abs/2506.04708) |        -      |
 | 2025.03 | **Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging** |   arXiv'25     | [link](https://arxiv.org/abs/2503.20641) |        [link](https://github.com/hahahawu/Long-to-Short-via-Model-Merging)      |
 | 2025.03 | **SOLAR: Scalable Optimization of Large-scale Architecture for Reasoning** |   arXiv'25     | [link](https://arxiv.org/abs/2503.04530) |        -      |
@@ -236,6 +274,13 @@ If you find this repository helpful for your research, we would greatly apprecia
 #### Agent Router
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
+| 2026.05 | **Breaking the Reward Barrier: Accelerating Tree-of-Thought Reasoning via Speculative Exploration (SPEX)** | arXiv'26 | [link](https://arxiv.org/abs/2605.10195) | - |
+| 2026.04 | **Step-GRPO: Internalizing Dynamic Early Exit for Efficient Reasoning** | arXiv'26 | [link](https://arxiv.org/abs/2604.16890) | - |
+| 2026.04 | **Early Stopping for Large Reasoning Models via Confidence Dynamics** | arXiv'26 | [link](https://arxiv.org/abs/2604.04930) | - |
+| 2026.03 | **Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents** | arXiv'26 | [link](https://arxiv.org/abs/2603.07915) | - |
+| 2025.09 | **FastTTS: Accelerating Test-Time Scaling for Edge LLM Reasoning** | ASPLOS'26 | [link](https://arxiv.org/abs/2509.00195) | - |
+| 2025.06 | **SPECS: Faster Test-Time Scaling through Speculative Drafts** | arXiv'25 | [link](https://arxiv.org/abs/2506.15733) | - |
+| 2025.05 | **R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing** | arXiv'25 | [link](https://arxiv.org/abs/2505.21600) | [link](https://github.com/thu-nics/R2R) |
 | 2025.04 | **SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning** | arXiv'25 | [link](https://arxiv.org/abs/2504.07891) | [link](https://github.com/ruipeterpan/specreason) |
 | 2025.02 | **Confident or Seek Stronger: Exploring Uncertainty-Based On-device LLM Routing From Benchmarking to Generalization** |   arXiv'25     | [link](https://arxiv.org/abs/2502.04428) |        -      |
 | 2025.01 | **RouteLLM: Learning to Route LLMs from Preference Data** |   The Thirteenth International Conference on Learning Representations'25     | [link](https://openreview.net/forum?id=8sSqNntaMr) |        -      |
