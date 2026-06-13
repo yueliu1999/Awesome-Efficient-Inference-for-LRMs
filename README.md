@@ -241,6 +241,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 #### New Architecture
 | Time | Title   |  Venue   | Paper | Code |
 | ---- | ------- | :------: | :---: | :--: |
+| 2026.06 | **Genesis 2: Cascade MoE for Ultra-Efficient CPU Inference** |   GitHub'26     | -      |        [link](https://github.com/larionovavi-stack/genesis2-cascade-moe)      |
 | 2025.10 | **ThinKV: Thought-Adaptive KV Cache Compression for Efficient Reasoning Models** |   ICLR'26     | [link](https://arxiv.org/abs/2510.01290) |        -      |
 | 2025.05 | **R-KV: Redundancy-aware KV Cache Compression for Reasoning Models** |   arXiv'25     | [link](https://arxiv.org/abs/2505.24133) |        -      |
 | 2025.02 | **Large Language Diffusion Models** |   arXiv'25     | [link](https://arxiv.org/abs/2502.09992) |        [link](https://ml-gsai.github.io/LLaDA-demo/)      |
