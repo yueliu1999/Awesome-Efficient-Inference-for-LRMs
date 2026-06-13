@@ -47,6 +47,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 ### Survey
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2026.05 | **Efficient Inference for Large Reasoning Models: A Survey** |   IEEE T-PAMI'26     | [link](https://arxiv.org/pdf/2503.23077) |        [link](https://arxiv.org/pdf/2503.23077)      |
 | 2025.08 | **Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models** |   arXiv'25     | [link](https://arxiv.org/abs/2508.02120) |        -      |
 | 2025.07 | **Towards Concise and Adaptive Thinking in Large Reasoning Models: A Survey** |   arXiv'25     | [link](https://arxiv.org/abs/2507.09662) |        -      |
 | 2025.07 | **Reasoning on a Budget: A Survey of Adaptive and Controllable Test-Time Compute in LLMs** |   arXiv'25     | [link](https://arxiv.org/abs/2507.02076) |        -      |
