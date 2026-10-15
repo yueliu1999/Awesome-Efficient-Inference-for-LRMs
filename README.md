@@ -63,6 +63,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2026.10 | **DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning** |   arXiv'26     | [link](https://arxiv.org/abs/2610.18862) |        [link](https://github.com/leoluolol/DoubtLess)      |
 | 2026.05 | **Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models** |   arXiv'26     | [link](https://arxiv.org/pdf/2605.17672) |        [link](https://github.com/giovanni-vaccarino/PUMA)      |
 | 2026.03 | **Efficient Reasoning with Balanced Thinking (ReBalance)** |   arXiv'26     | [link](https://arxiv.org/abs/2603.12372) |        -      |
 | 2026.03 | **Draft-Thinking: Learning Efficient Reasoning in Long Chain-of-Thought LLMs** |   arXiv'26     | [link](https://arxiv.org/abs/2603.00578) |        -      |
