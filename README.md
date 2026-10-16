@@ -79,6 +79,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2025.08 | **BudgetThinker: Empowering Budget-aware LLM Reasoning with Control Tokens** |   arXiv'25     | [link](https://arxiv.org/abs/2508.17196) |        -      |
 | 2025.08 | **Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression** |   arXiv'25     | [link](https://arxiv.org/abs/2508.05337) |        -      |
 | 2025.07 | **Think Clearly: Improving Reasoning via Redundant Token Pruning** |   arXiv'25     | [link](https://arxiv.org/abs/2507.08806) |        -      |
+| 2025.06 | **Structured Reasoning for LLMs: A Unified Framework for Efficiency and Explainability** |   ICLR'26     | [link](https://proceedings.iclr.cc/paper_files/paper/2026/hash/ad5b3f324b24c17cdc2f3712298c76bd-Abstract-Conference.html) |        [link](https://github.com/cnsdqd-dyb/Enhancing-Large-Language-Models-through-Structured-Reasoning)      |
 | 2025.06 | **AALC: Large Language Model Efficient Reasoning via Adaptive Accuracy-Length Control** |   arXiv'25     | [link](https://arxiv.org/abs/2506.20160) |        -      |
 | 2025.06 | **Steering LLM Thinking with Budget Guidance** |   arXiv'25     | [link](https://arxiv.org/abs/2506.13752) |        [link](https://github.com/UMass-Embodied-AGI/BudgetGuidance)      |
 | 2025.06 | **Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement** |   arXiv'25     | [link](https://arxiv.org/abs/2506.15647) |        -      |
